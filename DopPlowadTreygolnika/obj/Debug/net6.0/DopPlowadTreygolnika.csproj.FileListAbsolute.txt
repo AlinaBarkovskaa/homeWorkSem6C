@@ -1,0 +1,15 @@
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\DopPlowadTreygolnika.csproj.AssemblyReference.cache
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\DopPlowadTreygolnika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\DopPlowadTreygolnika.AssemblyInfoInputs.cache
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\DopPlowadTreygolnika.AssemblyInfo.cs
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\DopPlowadTreygolnika.csproj.CoreCompileInputs.cache
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\bin\Debug\net6.0\DopPlowadTreygolnika.exe
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\bin\Debug\net6.0\DopPlowadTreygolnika.deps.json
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\bin\Debug\net6.0\DopPlowadTreygolnika.runtimeconfig.json
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\bin\Debug\net6.0\DopPlowadTreygolnika.dll
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\bin\Debug\net6.0\DopPlowadTreygolnika.pdb
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\DopPlowadTreygolnika.dll
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\refint\DopPlowadTreygolnika.dll
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\DopPlowadTreygolnika.pdb
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\DopPlowadTreygolnika.genruntimeconfig.cache
+C:\Users\semio\Desktop\hWSem6\DopPlowadTreygolnika\obj\Debug\net6.0\ref\DopPlowadTreygolnika.dll
