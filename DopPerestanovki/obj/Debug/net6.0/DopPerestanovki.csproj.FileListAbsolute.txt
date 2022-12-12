@@ -1,0 +1,15 @@
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\DopPerestanovki.csproj.AssemblyReference.cache
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\DopPerestanovki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\DopPerestanovki.AssemblyInfoInputs.cache
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\DopPerestanovki.AssemblyInfo.cs
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\DopPerestanovki.csproj.CoreCompileInputs.cache
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\bin\Debug\net6.0\DopPerestanovki.exe
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\bin\Debug\net6.0\DopPerestanovki.deps.json
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\bin\Debug\net6.0\DopPerestanovki.runtimeconfig.json
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\bin\Debug\net6.0\DopPerestanovki.dll
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\bin\Debug\net6.0\DopPerestanovki.pdb
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\DopPerestanovki.dll
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\refint\DopPerestanovki.dll
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\DopPerestanovki.pdb
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\DopPerestanovki.genruntimeconfig.cache
+C:\Users\semio\Desktop\hWSem6\DopPerestanovki\obj\Debug\net6.0\ref\DopPerestanovki.dll
